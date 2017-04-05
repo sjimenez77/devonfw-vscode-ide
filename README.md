@@ -3,9 +3,9 @@
 ## Introduction
 
 Visual Studio Code is a light and powerful open source editor, developed and 
-maintained by Microsoft, which integrate some powerful tools and characteristics,
-highlighting between them the incorporation of git by default, a fast and
-configurable debugging tool and the possibility of be extended and customized 
+maintained by Microsoft, which integrates some powerful tools and characteristics. 
+Among them we can highlight the incorporation of git by default, a fast and
+configurable debugging tool and the possibility of being extended and customized 
 by a vast number of [extensions](https://marketplace.visualstudio.com/VSCode).
 
 ## Installation

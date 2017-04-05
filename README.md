@@ -45,3 +45,10 @@ The extensions included in the scripts involve several aspects as Angular, Ionic
 - [WallabyJs.quokka-vscode](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 - [zhuangtongfa.Material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 
+## Install extensions with Sync Settings
+
+It is easier to install the above extensions using **Sync Settings**: 
+
+1. Install [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension.
+2. Select in VS Code the command **Sync: Download Settings**.
+3. Provide GIST ID: **6948ff966851c2bf0bd2d4b47d5b12bd**.

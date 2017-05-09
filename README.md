@@ -1,5 +1,7 @@
 # OASP/Devonfw Visual Studio Code editor ("IDE") extensions
 
+**UPDATE 09/05/2017:** Swagger and C# support extensions included.
+
 ## Introduction
 
 Visual Studio Code is a light and powerful open source editor, developed and 
@@ -19,6 +21,7 @@ The next and last step is to run the script corresponding to your OS.
 The extensions included in the scripts involve several aspects as Angular, Ionic and NativeScript development, code running, testing, linting and IDE configuration:
 
 - [alefragnani.project-manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+- [Arjun.swagger-viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer)
 - [christian-kohler.path-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [CoenraadS.bracket-pair-colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [donjayamanne.githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
@@ -29,6 +32,7 @@ The extensions included in the scripts involve several aspects as Angular, Ionic
 - [jakethashi.vscode-angular2-emmet](https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-emmet)
 - [joelday.docthis](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
 - [johnpapa.Angular2](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+- [ms-vscode.csharp](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 - [ms-vscode.sublime-keybindings](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
 - [msjsdiag.debugger-for-chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 - [natewallace.angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
@@ -51,4 +55,4 @@ It is easier to install the above extensions using **Sync Settings**:
 
 1. Install [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension.
 2. Select in VS Code the command **Sync: Download Settings**.
-3. Provide GIST ID: **6948ff966851c2bf0bd2d4b47d5b12bd**.
+3. Provide GIST ID: **d976bc200f0403d8045b7e4ee39d4361**.

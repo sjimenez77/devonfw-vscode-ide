@@ -26,6 +26,8 @@ code --uninstall-extension Thavarajan.ionic2
 code --uninstall-extension vsmobile.cordova-tools
 code --uninstall-extension WallabyJs.quokka-vscode
 code --uninstall-extension zhuangtongfa.Material-theme
+code --uninstall-extension Arjun.swagger-viewer
+code --uninstall-extension ms-vscode.csharp
 
 code --install-extension alefragnani.project-manager
 code --install-extension christian-kohler.path-intellisense
@@ -53,3 +55,5 @@ code --install-extension Thavarajan.ionic2
 code --install-extension vsmobile.cordova-tools
 code --install-extension WallabyJs.quokka-vscode
 code --install-extension zhuangtongfa.Material-theme
+code --install-extension Arjun.swagger-viewer
+code --install-extension ms-vscode.csharp

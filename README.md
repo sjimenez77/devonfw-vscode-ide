@@ -1,6 +1,7 @@
 # OASP/Devonfw Visual Studio Code editor ("IDE") extensions
 
 **UPDATE 09/05/2017:** Swagger and C# support extensions included.
+**UPDATE 12/05/2017:** AsciiDoc support extension included.
 
 ## Introduction
 
@@ -48,6 +49,15 @@ The extensions included in the scripts involve several aspects as Angular, Ionic
 - [vsmobile.cordova-tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools)
 - [WallabyJs.quokka-vscode](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 - [zhuangtongfa.Material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+- [joaompinto.asciidoctor-vscode](https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode)
+
+## AsciiDoc support
+
+In order to be able to use the AsciiDoc extension you will need to install **Ruby** on your system and the **Asciidoctor** tool running the following command in the terminal:
+
+```bash
+$ gem install asciidoctor
+```
 
 ## Install extensions with Sync Settings
 

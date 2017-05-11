@@ -1,7 +1,7 @@
 # OASP/Devonfw Visual Studio Code editor ("IDE") extensions
 
-**UPDATE 09/05/2017:** Swagger and C# support extensions included.
-**UPDATE 12/05/2017:** AsciiDoc support extension included.
+- **UPDATE 09/05/2017:** Swagger and C# support extensions included.
+- **UPDATE 12/05/2017:** AsciiDoc support extension included.
 
 ## Introduction
 

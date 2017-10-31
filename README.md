@@ -20,7 +20,7 @@ The next and last step is to run the script corresponding to your OS.
 
 ## Install extensions with Sync Settings
 
-It is easier to install the above extensions using **Sync Settings**: 
+It is safer to install the above extensions using **Sync Settings**: 
 
 1. Install [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension.
 2. Select in VS Code the command **Sync: Download Settings**.

@@ -1,7 +1,8 @@
-# OASP/Devonfw Visual Studio Code editor ("IDE") extensions
+# OASP | Devonfw VS Code extensions
 
 - **UPDATE 09/05/2017:** Swagger and C# support extensions included.
 - **UPDATE 12/05/2017:** AsciiDoc support extension included.
+- **UPDATE 31/12/2017:** Rust and C++ support extensions included. README improved. 
 
 ## Introduction
 
@@ -17,39 +18,66 @@ The only requirement to install the extensions is to have installed the editor,
 which can be installed through his [official page](https://code.visualstudio.com/).
 The next and last step is to run the script corresponding to your OS.
 
+## Install extensions with Sync Settings
+
+It is easier to install the above extensions using **Sync Settings**: 
+
+1. Install [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension.
+2. Select in VS Code the command **Sync: Download Settings**.
+3. Provide GIST ID: **d976bc200f0403d8045b7e4ee39d4361**.
+
 ## Extensions
 
-The extensions included in the scripts involve several aspects as Angular, Ionic and NativeScript development, code running, testing, linting and IDE configuration:
+The extensions included in the scripts involve several aspects as Angular, Ionic and NativeScript development, other interesting languages, code running, testing, linting and IDE configuration:
 
-- [alefragnani.project-manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
-- [Arjun.swagger-viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer)
-- [christian-kohler.path-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-- [CoenraadS.bracket-pair-colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-- [donjayamanne.githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-- [eg2.tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
-- [formulahendry.code-runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-- [HookyQR.beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
-- [infinity1207.angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
-- [jakethashi.vscode-angular2-emmet](https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-emmet)
-- [joelday.docthis](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
-- [johnpapa.Angular2](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
-- [ms-vscode.csharp](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
-- [ms-vscode.sublime-keybindings](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
-- [msjsdiag.debugger-for-chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-- [natewallace.angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
-- [PeterJausovec.vscode-docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
-- [rbbit.typescript-hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
-- [redhat.java](https://marketplace.visualstudio.com/items?itemName=redhat.java)
-- [robertohuertasm.vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
-- [Shan.code-settings-sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-- [silverlakesoftware.searchdocsets-vscode](https://marketplace.visualstudio.com/items?itemName=silverlakesoftware.searchdocsets-vscode)
-- [swyphcosmo.spellchecker](https://marketplace.visualstudio.com/items?itemName=swyphcosmo.spellchecker)
-- [Telerik.nativescript](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript)
-- [Thavarajan.ionic2](https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2)
-- [vsmobile.cordova-tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools)
-- [WallabyJs.quokka-vscode](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
-- [zhuangtongfa.Material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-- [joaompinto.asciidoctor-vscode](https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode)
+- Settings Sync
+    - [Shan.code-settings-sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+- Project Management
+    - [alefragnani.project-manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+- Code and documentation helpers
+    - [christian-kohler.path-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+    - [CoenraadS.bracket-pair-colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+    - [HookyQR.beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+    - [joelday.docthis](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
+    - [silverlakesoftware.searchdocsets-vscode](https://marketplace.visualstudio.com/items?itemName=silverlakesoftware.searchdocsets-vscode)
+- Code runners
+    - [formulahendry.code-runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+    - [WallabyJs.quokka-vscode](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+- Angular, Ionic, NativeScript and TypeScript
+    - [johnpapa.Angular2](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+    - [eg2.tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+    - [infinity1207.angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
+    - [jakethashi.vscode-angular2-emmet](https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-emmet)
+    - [rbbit.typescript-hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
+    - [natewallace.angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
+    - [Thavarajan.ionic2](https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2)
+    - [Telerik.nativescript](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript)
+    - [vsmobile.cordova-tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools)
+- Debuggers
+    - [msjsdiag.debugger-for-chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+- Git
+    - [donjayamanne.githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+- Swagger and API definition
+    - [Arjun.swagger-viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer)
+- Rust
+    - [kalitaalexey.vscode-rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust)
+- C++
+    - [ms-vscode.cpptools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+- C#
+    - [ms-vscode.csharp](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
+- Java
+    - [redhat.java](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+- Key bindings
+    - [ms-vscode.sublime-keybindings](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
+- Docker
+    - [PeterJausovec.vscode-docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
+- Themes
+    - [zhuangtongfa.Material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+    - [robertohuertasm.vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
+- Spell checking
+    - [swyphcosmo.spellchecker](https://marketplace.visualstudio.com/items?itemName=swyphcosmo.spellchecker)
+- AsciiDoc
+    - [joaompinto.asciidoctor-vscode](https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode)
 
 ## AsciiDoc support
 
@@ -59,10 +87,3 @@ In order to be able to use the AsciiDoc extension you will need to install **Rub
 $ gem install asciidoctor
 ```
 
-## Install extensions with Sync Settings
-
-It is easier to install the above extensions using **Sync Settings**: 
-
-1. Install [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension.
-2. Select in VS Code the command **Sync: Download Settings**.
-3. Provide GIST ID: **d976bc200f0403d8045b7e4ee39d4361**.

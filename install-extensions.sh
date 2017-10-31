@@ -28,6 +28,8 @@ code --uninstall-extension WallabyJs.quokka-vscode
 code --uninstall-extension zhuangtongfa.Material-theme
 code --uninstall-extension Arjun.swagger-viewer
 code --uninstall-extension ms-vscode.csharp
+code --uninstall-extension ms-vscode.cpptools
+code --uninstall-extension kalitaalexey.vscode-rust
 code --uninstall-extension joaompinto.asciidoctor-vscode
 
 code --install-extension alefragnani.project-manager
@@ -58,4 +60,6 @@ code --install-extension WallabyJs.quokka-vscode
 code --install-extension zhuangtongfa.Material-theme
 code --install-extension Arjun.swagger-viewer
 code --install-extension ms-vscode.csharp
+code --install-extension ms-vscode.cpptools
+code --install-extension kalitaalexey.vscode-rust
 code --install-extension joaompinto.asciidoctor-vscode

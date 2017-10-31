@@ -2,7 +2,7 @@
 
 - **UPDATE 09/05/2017:** Swagger and C# support extensions included.
 - **UPDATE 12/05/2017:** AsciiDoc support extension included.
-- **UPDATE 31/12/2017:** Rust and C++ support extensions included. README improved. 
+- **UPDATE 31/10/2017:** Rust and C++ support extensions included. README improved. 
 
 ## Introduction
 
@@ -25,6 +25,8 @@ It is safer to install the above extensions using **Sync Settings**:
 1. Install [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension.
 2. Select in VS Code the command **Sync: Download Settings**.
 3. Provide GIST ID: **d976bc200f0403d8045b7e4ee39d4361**.
+
+**IMPORTANT:** The extensions will be downloaded and installed in the background, therefore please, be patient. 
 
 ## Extensions
 

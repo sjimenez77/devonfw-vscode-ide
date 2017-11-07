@@ -42,6 +42,7 @@ The extensions included in the scripts involve several aspects as Angular, Ionic
     - [HookyQR.beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
     - [joelday.docthis](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
     - [silverlakesoftware.searchdocsets-vscode](https://marketplace.visualstudio.com/items?itemName=silverlakesoftware.searchdocsets-vscode)
+    - [wayou.vscode-todo-highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - Code runners
     - [formulahendry.code-runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
     - [WallabyJs.quokka-vscode](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)

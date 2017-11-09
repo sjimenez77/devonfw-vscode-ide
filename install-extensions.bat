@@ -15,7 +15,6 @@ code --uninstall-extension ms-vscode.sublime-keybindings
 code --uninstall-extension msjsdiag.debugger-for-chrome
 code --uninstall-extension natewallace.angular2-inline
 code --uninstall-extension PeterJausovec.vscode-docker
-code --uninstall-extension rbbit.typescript-hero
 code --uninstall-extension redhat.java
 code --uninstall-extension robertohuertasm.vscode-icons
 code --uninstall-extension Shan.code-settings-sync
@@ -48,7 +47,6 @@ code --install-extension ms-vscode.sublime-keybindings
 code --install-extension msjsdiag.debugger-for-chrome
 code --install-extension natewallace.angular2-inline
 code --install-extension PeterJausovec.vscode-docker
-code --install-extension rbbit.typescript-hero
 code --install-extension redhat.java
 code --install-extension robertohuertasm.vscode-icons
 code --install-extension Shan.code-settings-sync

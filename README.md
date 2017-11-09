@@ -51,7 +51,6 @@ The extensions included in the scripts involve several aspects as Angular, Ionic
     - [eg2.tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
     - [infinity1207.angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
     - [jakethashi.vscode-angular2-emmet](https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-emmet)
-    - [rbbit.typescript-hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
     - [natewallace.angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
     - [Thavarajan.ionic2](https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2)
     - [Telerik.nativescript](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript)

@@ -39,7 +39,7 @@ The extensions included in the scripts involve several aspects as Angular, Ionic
 - Code and documentation helpers
     - [christian-kohler.path-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
     - [CoenraadS.bracket-pair-colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-    - [HookyQR.beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+    - [esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
     - [joelday.docthis](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
     - [silverlakesoftware.searchdocsets-vscode](https://marketplace.visualstudio.com/items?itemName=silverlakesoftware.searchdocsets-vscode)
     - [wayou.vscode-todo-highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
@@ -68,7 +68,10 @@ The extensions included in the scripts involve several aspects as Angular, Ionic
 - C#
     - [ms-vscode.csharp](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 - Java
-    - [redhat.java](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+    - [vscjava.vscode-java-pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) that will install automatically:
+        - [redhat.java](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+        - [vscjava.vscode-java-debug](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
+    - In order to make Java work properly you must set the `java.home` variable in the VS Code User Settings (Keyboard shortcut `Ctrl+,` in Windows and Linux or `Cmd+,` in macOS or press `F1` and start writing _User settings_)
 - Key bindings
     - [ms-vscode.sublime-keybindings](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
 - Docker

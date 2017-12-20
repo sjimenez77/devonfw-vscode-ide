@@ -2,7 +2,8 @@
 
 - **UPDATE 09/05/2017:** Swagger and C# support extensions included.
 - **UPDATE 12/05/2017:** AsciiDoc support extension included.
-- **UPDATE 31/10/2017:** Rust and C++ support extensions included. README improved. 
+- **UPDATE 31/10/2017:** Rust and C++ support extensions included. README improved.
+- **UPDATE 20/12/2017:** Python support extension included.  
 
 ## Introduction
 
@@ -64,6 +65,8 @@ The extensions included in the scripts involve several aspects as Angular, Ionic
     - [Arjun.swagger-viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer)
 - Rust
     - [kalitaalexey.vscode-rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust)
+- Python
+    - [ms-python.python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - C++
     - [ms-vscode.cpptools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 - C#

@@ -29,6 +29,24 @@ It is safer to install the above extensions using **Sync Settings**:
 
 **IMPORTANT:** The extensions will be downloaded and installed in the background, therefore please, be patient. 
 
+**KNOWN ISSUES:** Some users reported Access Token errors. In this case, please follow the instructions below:
+
+Create a Personal Access Token from your GitHub account. You can create one by simply following the steps shown in the pictures below. Make sure you add **Gist** in scope.
+
+**Go to [Settings](https://github.com/settings) / [Developer settings](https://github.com/settings/tokens) / [Personal access tokens](https://github.com/settings/tokens) / Generate New Token**
+
+![Goto Settings / Developer settings / Personal Access Tokens](https://shanalikhan.github.io/img/github1.PNG)
+
+**Select Gist From Scopes.**
+
+![Select Scopes](https://shanalikhan.github.io/img/github2.PNG)
+
+**Get an Access Token.**
+
+![Get Access Token](https://shanalikhan.github.io/img/github3.PNG)
+
+> Save the Token somewhere for future use (i.e. to upload from other machines).
+
 ## Extensions
 
 The extensions included in the scripts involve several aspects as Angular, Ionic and NativeScript development, other interesting languages, code running, testing, linting and IDE configuration:

@@ -25,7 +25,7 @@ It is safer to install the above extensions using **Sync Settings**:
 
 1. Install [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension.
 2. Select in VS Code the command **Sync: Download Settings**.
-3. Provide GIST ID: **d976bc200f0403d8045b7e4ee39d4361**.
+3. Provide GIST ID: **3b1d9d60e842f499fc39334a1dd28564**.
 
 **IMPORTANT:** The extensions will be downloaded and installed in the background, therefore please, be patient. 
 

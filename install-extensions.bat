@@ -34,6 +34,7 @@ code --uninstall-extension kalitaalexey.vscode-rust
 code --uninstall-extension joaompinto.asciidoctor-vscode
 code --uninstall-extension wayou.vscode-todo-highlight
 code --uninstall-extension ms-python.python
+code --uninstall-extension dcortes92.FreeMarker
 
 code --install-extension alefragnani.project-manager
 code --install-extension christian-kohler.path-intellisense
@@ -69,3 +70,4 @@ code --install-extension kalitaalexey.vscode-rust
 code --install-extension joaompinto.asciidoctor-vscode
 code --install-extension wayou.vscode-todo-highlight
 code --install-extension ms-python.python
+code --install-extension dcortes92.FreeMarker

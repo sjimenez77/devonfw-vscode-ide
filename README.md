@@ -59,7 +59,7 @@ The extensions included in the scripts involve several aspects as Angular, Ionic
   * [christian-kohler.path-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
   * [CoenraadS.bracket-pair-colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
   * [esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-    * In order to avoid TS lint errors, you must set the `prettier.singleQuote` variable to `true` in the VS Code User Settings (Keyboard shortcut `Ctrl+,` in Windows and Linux or `Cmd+,` in macOS or press `F1` and start writing _User settings_).
+    * In order to avoid TS lint errors, you must set the `prettier.singleQuote` and `prettier.semi` variables to `true` in the VS Code User Settings (Keyboard shortcut `Ctrl+,` in Windows and Linux or `Cmd+,` in macOS or press `F1` and start writing _User settings_).
     * Another useful feature to avoid TS lint errors is to set the `prettier.trailingComma` variable to `all` to trail commas wherever possible.
   * [joelday.docthis](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
   * [silverlakesoftware.searchdocsets-vscode](https://marketplace.visualstudio.com/items?itemName=silverlakesoftware.searchdocsets-vscode)

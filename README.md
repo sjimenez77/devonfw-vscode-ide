@@ -23,9 +23,9 @@ The next and last step is to run the script corresponding to your OS.
 
 It is safer to install the above extensions using **Sync Settings**:
 
-1. Install [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension.
-2. Select in VS Code the command **Sync: Download Settings**.
-3. Provide GIST ID: **3b1d9d60e842f499fc39334a1dd28564**.
+1.  Install [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension.
+2.  Select in VS Code the command **Sync: Download Settings**.
+3.  Provide GIST ID: **3b1d9d60e842f499fc39334a1dd28564**.
 
 **IMPORTANT:** The extensions will be downloaded and installed in the background, therefore please, be patient.
 
@@ -77,8 +77,10 @@ The extensions included in the scripts involve several aspects as Angular, Ionic
   * [Thavarajan.ionic2](https://marketplace.visualstudio.com/items?itemName=Thavarajan.ionic2)
   * [Telerik.nativescript](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript)
   * [vsmobile.cordova-tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools)
+  * [sasxa-net.angular-gui](https://marketplace.visualstudio.com/items?itemName=sasxa-net.angular-gui)
 * Debuggers
   * [msjsdiag.debugger-for-chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+  * [vscjava.vscode-java-debug](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
 * Git
   * [donjayamanne.githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 * Swagger and API definition
@@ -95,6 +97,8 @@ The extensions included in the scripts involve several aspects as Angular, Ionic
   * [vscjava.vscode-java-pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) that will install automatically:
     * [redhat.java](https://marketplace.visualstudio.com/items?itemName=redhat.java)
     * [vscjava.vscode-java-debug](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
+    * [vscjava.vscode-java-test](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test)
+    * [vscjava.vscode-maven](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
   * In order to make Java work properly you must set the `java.home` variable in the VS Code User Settings (Keyboard shortcut `Ctrl+,` in Windows and Linux or `Cmd+,` in macOS or press `F1` and start writing _User settings_)
 * Key bindings
   * [ms-vscode.sublime-keybindings](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)

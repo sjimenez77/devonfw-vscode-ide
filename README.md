@@ -65,6 +65,7 @@ The extensions included in the scripts involve several aspects as Angular, Ionic
   * [silverlakesoftware.searchdocsets-vscode](https://marketplace.visualstudio.com/items?itemName=silverlakesoftware.searchdocsets-vscode)
   * [wayou.vscode-todo-highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
   * [dcortes92.FreeMarker](https://marketplace.visualstudio.com/items?itemName=dcortes92.FreeMarker)
+  * [pnp.polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 * Code runners
   * [formulahendry.code-runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
   * [WallabyJs.quokka-vscode](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
@@ -78,6 +79,7 @@ The extensions included in the scripts involve several aspects as Angular, Ionic
   * [Telerik.nativescript](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript)
   * [vsmobile.cordova-tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools)
   * [sasxa-net.angular-gui](https://marketplace.visualstudio.com/items?itemName=sasxa-net.angular-gui)
+  * [pnp.polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 * Debuggers
   * [msjsdiag.debugger-for-chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
   * [vscjava.vscode-java-debug](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)

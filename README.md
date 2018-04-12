@@ -85,6 +85,7 @@ The extensions included in the scripts involve several aspects as Angular, Ionic
   * [vscjava.vscode-java-debug](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
 * Git
   * [donjayamanne.githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+  * [eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 * Swagger and API definition
   * [Arjun.swagger-viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer)
 * Rust

@@ -35,6 +35,7 @@ code --uninstall-extension ms-python.python
 code --uninstall-extension dcortes92.FreeMarker
 code --uninstall-extension sasxa-net.angular-gui
 code --uninstall-extension pnp.polacode
+code --uninstall-extension eamodio.gitlens
 
 code --install-extension alefragnani.project-manager
 code --install-extension christian-kohler.path-intellisense
@@ -71,3 +72,4 @@ code --install-extension ms-python.python
 code --install-extension dcortes92.FreeMarker
 code --install-extension sasxa-net.angular-gui
 code --install-extension pnp.polacode
+code --install-extension eamodio.gitlens

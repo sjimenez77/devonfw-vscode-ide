@@ -4,6 +4,7 @@
 * **UPDATE 12/05/2017:** AsciiDoc support extension included.
 * **UPDATE 31/10/2017:** Rust and C++ support extensions included. README improved.
 * **UPDATE 20/12/2017:** Python support extension included.
+* **UPDATE 27/04/2018:** Prettier, Angular GUI, GitLens, Polacode and PlantUML diagram support included.
 
 ## Introduction
 
@@ -88,6 +89,8 @@ The extensions included in the scripts involve several aspects as Angular, Ionic
   * [eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 * Swagger and API definition
   * [Arjun.swagger-viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer)
+* UML
+  * [jebbs.plantuml](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
 * Rust
   * [kalitaalexey.vscode-rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust)
 * Python

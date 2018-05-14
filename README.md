@@ -62,6 +62,20 @@ The extensions included in the scripts involve several aspects as Angular, Ionic
   * [esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
     * In order to avoid TS lint errors, you must set the `prettier.singleQuote` and `prettier.semi` variables to `true` in the VS Code User Settings (Keyboard shortcut `Ctrl+,` in Windows and Linux or `Cmd+,` in macOS or press `F1` and start writing _User settings_).
     * Another useful feature to avoid TS lint errors is to set the `prettier.trailingComma` variable to `all` to trail commas wherever possible.
+    * Besides this, a `.prettierrc` JSON file can be included in the root folder of any Angular project with the following configuration:
+    ```json
+    {
+      "printWidth": 80, 
+      "tabWidth": 2,  
+      "useTabs": false,
+      "semi": true,
+      "singleQuote": true,
+      "trailingComma": "all",
+      "bracketSpacing": true,
+      "arrowParens": "avoid",
+      "parser": "typescript"
+    }
+    ```
   * [joelday.docthis](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
   * [silverlakesoftware.searchdocsets-vscode](https://marketplace.visualstudio.com/items?itemName=silverlakesoftware.searchdocsets-vscode)
   * [wayou.vscode-todo-highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)

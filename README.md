@@ -1,4 +1,4 @@
-# OASP | Devonfw VS Code extensions
+# devonfw VS Code extensions
 
 - **UPDATE 09/05/2017:** Swagger and C# support extensions included.
 - **UPDATE 12/05/2017:** AsciiDoc support extension included.

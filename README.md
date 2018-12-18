@@ -1,5 +1,7 @@
 # IMPORTANT NOTICE: 
-This repository is **deprecated** and will be removed on 21/12/2018, please visit this repository https://github.com/devonfw/devonfw-extension-pack-vscode and/or the VS Code Marketplace https://marketplace.visualstudio.com/items?itemName=devonfw.devonfw-extension-pack.
+This repository is **deprecated** and will be removed on 21/12/2018.
+
+Please visit the **new devonfw extension pack** repository https://github.com/devonfw/devonfw-extension-pack-vscode and/or the VS Code marketplace page https://marketplace.visualstudio.com/items?itemName=devonfw.devonfw-extension-pack for further information.
 
 # devonfw VS Code extensions
 
